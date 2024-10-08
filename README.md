@@ -26,7 +26,7 @@ El código se escribió en **Visual Studio Code** y está pensado para ser lo m�
 ## 📂 Presentación en PDF
 ¿Quieres más detalles y una presentación visual sobre SOLID? ¡Descarga la presentación en PDF haciendo clic en el siguiente enlace!
 
-📥 [Descargar presentación PDF]("./pildora_solid_srp/assets/pdf/Presetnación SOLID.pdf")
+📥 [Descargar presentación PDF]("./pildora_solid_srp/assets/pdf/Presentación SOLID.pdf")
 
 ## 📚 Recursos adicionales
 Si quieres aprender más sobre SOLID y profundizar en cada uno de los principios, aquí te dejo algunos recursos:
