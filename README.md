@@ -1,8 +1,7 @@
-# Principios SOLID en JavaScript 🚀
+# Principios SOLID 🚀
 
 ¡Hola! 👋 Bienvenido a este repositorio donde exploramos los principios **SOLID** aplicados en JavaScript. Estos principios son fundamentales para escribir código limpio, organizado y fácil de mantener.
 
----
 
 ## Principios SOLID 👇
 
@@ -16,7 +15,6 @@ SOLID es un conjunto de 5 principios que nos guían para diseñar software de ma
 
 ### 🔍 En este repositorio nos enfocamos en el primer principio: **Single Responsibility Principle (SRP)**.
 
----
 
 ## 📄 Descripción del Proyecto
 
@@ -26,7 +24,7 @@ El código se escribió en **Visual Studio Code** y está pensado para ser lo m�
 ## 📂 Presentación en PDF
 ¿Quieres más detalles y una presentación visual sobre SOLID? ¡Descarga la presentación en PDF haciendo clic en el siguiente enlace!
 
-📥 [Descargar presentación PDF]("./pildora_solid_srp/assets/pdf/Presetnación SOLID.pdf")
+📥 [Descargar presentación PDF]("./assets/pdf/Presentación%20SOLID.pdf")
 
 ## 📚 Recursos adicionales
 Si quieres aprender más sobre SOLID y profundizar en cada uno de los principios, aquí te dejo algunos recursos:
@@ -41,10 +39,11 @@ Si quieres aprender más sobre SOLID y profundizar en cada uno de los principios
 ¡Este es un proyecto abierto! Si tienes ideas para mejorar este repositorio o quieres agregar más ejemplos, ¡me encantaría verlo! No dudes en abrir un issue o hacer un pull request. 🙌 ¡Las contribuciones son bienvenidas! 💡
 
 ## 💼 Autor
-**Mónica Serna Santander**
+<a href="https://www.linkedin.com/in/monicasernasantander">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="20" height="20" />
+</a>   **Mónica Serna Santander**
+
 Desarrolladora Full Stack
 
-[GitHub](https://github.com/monicaSernaS) | [LinkedIn](https://linkedin.com/in/monicasernasantander)
----
 
 © 2024 Mónica Serna Santander
