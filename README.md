@@ -22,9 +22,7 @@ Este proyecto incluye una **explicación detallada y un ejemplo práctico** del 
 El código se escribió en **Visual Studio Code** y está pensado para ser lo más sencillo y entendible posible. 🌱
 
 ## 📂 Presentación en PDF
-¿Quieres más detalles y una presentación visual sobre SOLID? ¡Descarga la presentación en PDF haciendo clic en el siguiente enlace!
-
-📥 [Descargar presentación PDF]("C:\Users\monic\Desktop\Presentacion_SOLID.pdf")
+¿Quieres más detalles y una presentación visual sobre SOLID? En el repositorio encontrarás el archivo PDF.
 
 ## 📚 Recursos adicionales
 Si quieres aprender más sobre SOLID y profundizar en cada uno de los principios, aquí te dejo algunos recursos:
